@@ -1,2 +1,2 @@
 #!/bin/bash
-# Create the file with the special name and write "Best School" followed by a newline echo "Best School" > $'*\047"Best School"\047*$?*****:)'
+# Create the file with the exact special name and write "Best School" to it echo "Best School" > "*\'\"Best School\"\'*\$?*****:)"
