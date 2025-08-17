@@ -1,2 +1,4 @@
 #!/bin/bash
-# Create a file with the exact expected name including backslashes echo "Best School" > "\\*\\\\'\"Best School\"\\'\\\\*\\$\\?\\*\\*\\*\\*\\*:\\)" 
+
+# Create a file with the exact required name and write "Best School" into it
+echo "Best School" > $'\\*\\\\\'"'"'Best School"\'"'"'\\\\*\\$\\?\\*\\*\\*\\*\\*:)'
