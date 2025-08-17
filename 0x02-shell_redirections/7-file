@@ -1,2 +1,2 @@
 #!/bin/bash
-# Create a file with the exact required name and write "Best School" into it echo "Best School" > $'\\*\\\\\'"'"'Best School"\'"'"'\\\\*\\$\\?\\*\\*\\*\\*\\*:)'
+# Create the file with the exact required name and write "Best School" into it echo "Best School" > "*\\'\"Best School\"\\'*\\$?*****:)"
